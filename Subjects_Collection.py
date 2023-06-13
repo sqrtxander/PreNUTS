@@ -1,147 +1,200 @@
-# In python 3?
-
+from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 import bs4 as bs
-import urllib.request
-import re
+from requests_html import HTMLSession
+from time import sleep
 import json
-import time
+import re
 
-#The Subj class Subj(subject_code, subject_name, **kwargs)
-class Subj:
+
+# The Subject class Subject(subject_code, subject_name, **kwargs)
+class Subject:
     def __init__(self, code, name, **kwargs):
-        self.name = name # name of the subject
-        self.code = code # code of the subject
+        self.code = code  # code of the subject
+        self.name = name  # name of the subject
 
-        #Prerequisites of the subject
-        self.preReq = [] 
+        # Prerequisites of the subject
+        self.prereq = []
 
-        #TOoPer - The Opposite of Prerequisites (aka postrequisites, postoptional, dependancy etc) of the subject
-        self.tooPer = []
+        # TOoPer - The Opposite of Prerequisites (aka postrequisites, postoptional, dependancy etc) of the subject
+        self.tooper = []
 
-        #If A is a Prerequisite in B, B is a Tooper in A
-        
+        # If A is a Prerequisite in B, B is a Tooper in A
+
+        self.req_d = {}
+
         for name, value in kwargs.items():
             setattr(self, name, value)
 
-#Each Faculty and its url code:
-faculty = ['ads',#0: Analytics and Data Science
-           'bus',#1: Business
-           'comm',#2: Communication
-           'cii',#3: Creative Intelligence and Innovation
-           'dab',#4: On The Haters
-           'edu',#5: Education
-           'eng',#6: Engineering
-           'health',#7: Health
-           'health-gem',#8: Heath (GEM)
-           'it',#9: Information Technology
-           'intl',#10: International Studies
-           'law',#11: Law
-           'sci',#12: Science
-           'tdi']#13: Transdiciplinary Innovation
+
+def get_names_and_codes():
+    # Each Faculty and its url code:
+    faculties = [
+        "FacultyofArts",
+        "MacquarieBusinessSchool",
+        "FacultyofMedicine,HealthandHumanSciences",
+        "FacultyofScienceandEngineering",
+    ]
+
+    subject_l = []  # The list of Subjects
+
+    driver = webdriver.Firefox()
+    driver.set_window_size(1920, 2000)
+    wait_main = WebDriverWait(driver, 10)
+
+    for i, faculty in enumerate(faculties):
+        url = f"https://coursehandbook.mq.edu.au/browse/By%20Faculty/{faculty}"
+        driver.get(url)
+
+        # close cookie popup
+        if i == 0:
+            element = wait_main.until(EC.element_to_be_clickable(
+                (By.CLASS_NAME, "sc-dkrFOg")))
+            element.click()
+
+        while True:
+            subject_list = wait_main.until(EC.presence_of_element_located(
+                (By.CSS_SELECTOR, "nav[aria-labelledby='subject']")))
+
+            wait = WebDriverWait(subject_list, 10)
+            elements = wait.until(
+                EC.presence_of_all_elements_located((By.CLASS_NAME, "section1")))
+
+            codes = [element.text for element in elements]
+
+            elements = wait.until(
+                EC.presence_of_all_elements_located((By.CLASS_NAME, "unit-title")))
+
+            names = [element.text for element in elements]
+
+            assert len(codes) == len(names)
+
+            subject_l.extend([Subject(code, name)
+                             for code, name in zip(codes, names)])
+
+            # go to next page or next faculty
+            try:  # Check if there is a next page
+                element = wait.until(EC.element_to_be_clickable(
+                    (By.ID, "pagination-page-next")))
+                element.click()
+                sleep(1)
+            except Exception:
+                break
+
+        print(f"Got subjects for {faculty}")
+    print("Got all the subjects")
+    driver.quit()
+    return subject_l
 
 
-subList = []#The list of Subjects
+def get_reqs(input_code, subject_l):
+    # if the inputted code is invalid
+    if input_code not in [subject.code for subject in subject_l]:
+        print(f"Invalid code: {input_code}")
+        return
+
+    index = [subject.code for subject in subject_l].index(
+        input_code)  # Get the index of the subject in the list
+
+    try:  # try to find the subject site for the inputted subject
+        session = HTMLSession()
+        r = session.get(
+            f"https://coursehandbook.mq.edu.au/2023/units/{input_code}/")
+        r.html.render()
+
+        soup = bs.BeautifulSoup(r.html.html, "lxml")
+    except Exception as e:  # if it doesnt exist, return this message
+        print(f"Error on: {input_code}")
+        print(e)
+        return
+
+    prereq_s = soup.select_one("div.css-to4w00-Box")
+
+    if prereq_s is None:
+        subject_l[index].req_d = {}
+        return
+
+    titles = prereq_s.select("strong.css-3yvuv1-SDefaultHeading-css")
+    contents = prereq_s.select("div.css-1l0t84s-Box-CardBody")
+
+    information = {title.text: content.text for title,
+                   content in zip(titles, contents)}
+
+    subject_l[index].req_d = information
+
+    return
+
+    # if "Pre-requisite" in information:
+    #     prereq_l = requisite_string_to_list(information["Pre-requisite"])
+    #     subject_l[index].preReq = prereq_l
+    #     print(prereq_l)
+    #     for code in prereq_l:
+    #         # for code in subject_group:
+    #         if not re.fullmatch(r"^[A-Z]{4}\d{4}$", code):
+    #             print(f"Invalid code: {code}")
+    #             continue
+    #         for subject in subject_l:
+    #             if subject.code == code:
+    #                 subject.tooPer.append(input_code)
 
 
-for facNum in range(len(faculty)):
-    #The page for the numerical list of the subjects, given a faculty
-    source = urllib.request.urlopen('http://www.handbook.uts.edu.au/%s/lists/numerical.html' %(faculty[facNum])).read()
-    soup = bs.BeautifulSoup(source, 'lxml')
-    
+# def requisite_string_to_list(s):
+#     # result = re.sub(r"\sor admission to.*$", "", s)
+#     # matches = re.findall(r"\((.*?)\)", result)
+#     # result = [match.split(" or ") for match in matches]
 
-    #Searches for text which start with 5 digits - This is the Subject Code
-    for line in soup.text.split('\n'):
-        if re.search('^\d{5}', line):
-            
-            code = re.search('^\d{5,6}', line).group(0)#First 5 digits are Subject Code
-            name = re.search('(?<=\d{5}\s).+', line).group(0)#Remaining text is the Subject Name
+#     # result = [list(filter(lambda item: not re.fullmatch(
+#     #     r"^[A-Z]{4}\d{3}$", item), line)) for line in result]  # remove old subject codes
 
-            #Adds Subject to the Subject List
-            subList.append(Subj(code, name))
+#     # return result
 
-    print('Got Subjects for', faculty[facNum])
-    
-    
-print('Got all the Subjects')
+#     return list(re.findall(r"[A-Z]{4}\d{4}", s))
 
 
-#Searches for Subjects by subject code or name, defaults to returning a list of Subj instances
-def querySubjects(query, disp = False):#disp = True -> Prints out Subjects (code and name)
-    result = []#List of Subj instances
-    for i in subList:
-        if query.lower() in i.code+' '+i.name.lower():
-            if disp:
-                print(i.code,':',i.name,'\n')
-            else:
-                result.append(i)
-    if not(disp):
-        return result
+def create_subject_json(new=False):
+
+    if new:
+        subject_l = get_names_and_codes()
+        subject_l_to_json(subject_l, "subjects2023_new.json")
+
+    else:
+        subject_l = json_to_subject_l("subjects2023_before.json")
+
+    for i, subject in enumerate(subject_l, start=1):
+        print(
+            f"Getting requisites for {subject.code} ({str(i).zfill(len(str(len(subject_l))))}/{len(subject_l)})")
+        get_reqs(subject.code, subject_l)
+
+        if i % 20 == 0:
+            subject_l_to_json(subject_l, "subjects2023_req_d.json")
+
+        sleep(1)
+
+    subject_l_to_json(subject_l, "subjects2023_req_d.json")
+
+    print("DONE")
 
 
+def json_to_subject_l(path):
+    with open(path, "r") as f:
+        subject_dict_l = json.load(f)
 
-    
-def getPrereq(inputCode):
-    validCode = False
-    index = None
-    for i in range(len(subList)):
-        if subList[i].code == inputCode:
-            validCode = True
-            index = i
-            break
+    subject_l = [Subject(subject_dict["code"], subject_dict["name"], req_d=subject_dict.get("req_d"))
+                 for subject_dict in subject_dict_l]
 
-    if not validCode:
-        print("Invalid code:", inputCode)
-        #print("Please Enter A Valid Code")
-        return()
-
-    try:#try to find the subject site for the inputted subject
-        subjectSource = urllib.request.urlopen('http://handbook.uts.edu.au/subjects/%s.html' %(inputCode)).read()
-
-    except:#if it doesnt exist, return this message
-        print('Error on:', inputCode)
-        return()
-    
-    subjectSoup = bs.BeautifulSoup(subjectSource, 'lxml')
-
-    #Find the line of text describing the Pre-Requisites
-    for line in subjectSoup.find_all('em'):
-        if re.search('Requisite\(s\)',str(line)):
-
-            #For all matches of 5 or 6 digits, add it as a Pre-Requisite for the current subject
-            for preCode in re.findall('\d{5}(?=\.html)', str(line)):
-                if not(preCode) in subList[index].preReq:#Only add it if it has not already been added
-                    subList[index].preReq.append(preCode)
-
-                #Adds the current subject as a Post-Requisite for this subject's Branch
-                for preSub in subList:
-                    if preSub.code == preCode and not(inputCode in preSub.tooPer):#Only add it if it has not already been added
-                        preSub.tooPer.append(inputCode)
-        
-
-def createSubjectJSON():
-    for i in range(len(subList)):
-        getPrereq(subList[i].code)
-        if(i%100 == 0):
-            loaded = round(i*100/len(subList), 2)
-            loadingBar = '#'*int(loaded*30/100) + '-'*int(30 - loaded*30/100 +1)
-            print("%s%% Complete"%(str(round(i*100/len(subList), 2)))+'\t'+loadingBar)
+    return subject_l
 
 
-    subDictArr = []
-    
-    for i in subList:
-        subDictArr.append(i.__dict__)
-        
-    subjectJsonText = json.dumps(subDictArr, indent = 4)
+def subject_l_to_json(subject_l, path):
+    subject_dict_l = [subject.__dict__ for subject in subject_l]
 
-    filename = input("Name the json file: ")
+    subject_json = json.dumps(subject_dict_l, indent=4)
 
-    filename = filename[:filename.find(".json")]
-    
-    subjectJsonFile = open(filename+'.json', 'w')
+    with open(path, "w") as f:
+        f.write(subject_json)
 
-    subjectJsonFile.write(subjectJsonText)
 
-    subjectJsonFile.close()
-    
-    
+if __name__ == "__main__":
+    create_subject_json()

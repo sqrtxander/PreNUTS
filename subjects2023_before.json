@@ -1,0 +1,7172 @@
+[
+    {
+        "name": "Introducing Indigenous Australia",
+        "code": "ABST1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Dharug Country: Presences, Places and People",
+        "code": "ABST1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Pop Culture",
+        "code": "ABST2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Queer Studies",
+        "code": "ABST2035",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Histories and Knowledges",
+        "code": "ABST2060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Research Methodologies",
+        "code": "ABST3025",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Queer Theory & Practice",
+        "code": "ABST3035",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Settler Colonialism, Decolonisation and Indigenous Futures",
+        "code": "ABST3040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introducing Indigenous Australia",
+        "code": "ABSX1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Dharug Country: Presences, Places and People",
+        "code": "ABSX1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Pop Culture",
+        "code": "ABSX2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Queer Studies",
+        "code": "ABSX2035",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Histories and Knowledges",
+        "code": "ABSX2060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Research Methodologies",
+        "code": "ABSX3025",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Queer Theory and Practice",
+        "code": "ABSX3035",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Settler Colonialism, Decolonisation and Indigenous Futures",
+        "code": "ABSX3040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ancient Greek A",
+        "code": "AHIS1110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Latin A",
+        "code": "AHIS1120",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ancient Hebrew A",
+        "code": "AHIS1140",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Hieroglyphic Egyptian A",
+        "code": "AHIS1150",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Coptic Egyptian A",
+        "code": "AHIS1160",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Myth in the Ancient World",
+        "code": "AHIS1200",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Studying the Past: An Introduction to Ancient History in the 21st Century",
+        "code": "AHIS1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Archaeology of Egypt and Near East: Applying Lessons from the Past",
+        "code": "AHIS1250",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Digging up the Past: An Introduction to Archaeology",
+        "code": "AHIS1300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "World Archaeology",
+        "code": "AHIS1301",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ancient Greek B",
+        "code": "AHIS2110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Latin B",
+        "code": "AHIS2120",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Byzantium in the Age of the Emperors",
+        "code": "AHIS2130",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ancient Hebrew B",
+        "code": "AHIS2140",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Hieroglyphic Egyptian B",
+        "code": "AHIS2150",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Coptic Egyptian B",
+        "code": "AHIS2160",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "From Alexander the Great to Augustus: The Hellenistic Age",
+        "code": "AHIS2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Minos and Mycenae: The Aegean Bronze Age",
+        "code": "AHIS2211",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Rome and the Caesars",
+        "code": "AHIS2225",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ancient Egypt: Culture and Society",
+        "code": "AHIS2250",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ancient Egyptian and Near Eastern Art: Theory and Practice",
+        "code": "AHIS2251",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Archaeology of Death and Burial",
+        "code": "AHIS2301",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Archaeology and Society: Archaeological Evidence",
+        "code": "AHIS2302",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Capstone in Ancient History and Archaeology",
+        "code": "AHIS3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Material Culture and Museum Studies",
+        "code": "AHIS3001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Cultural Heritage and Public History",
+        "code": "AHIS3005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ancient Greek D",
+        "code": "AHIS3100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Latin D",
+        "code": "AHIS3101",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Hieroglyphic Egyptian D",
+        "code": "AHIS3102",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ancient Greek C",
+        "code": "AHIS3110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Latin C",
+        "code": "AHIS3120",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Hieroglyphic Egyptian C",
+        "code": "AHIS3150",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Women and Gender in the Ancient World",
+        "code": "AHIS3201",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "A History of Magic: From the Magi to Merlin",
+        "code": "AHIS3202",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Dialogue of Cultures in the Ancient World",
+        "code": "AHIS3241",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "State Formation in the Ancient World",
+        "code": "AHIS3251",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Laboratory Methods of Archaeology",
+        "code": "AHIS3302",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Field Methods of Archaeology",
+        "code": "AHIS3306",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ancient Greek A",
+        "code": "AHIX1110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Latin A",
+        "code": "AHIX1120",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Myth in the Ancient World",
+        "code": "AHIX1200",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Studying the Past: An Introduction to Ancient History in the 21st Century",
+        "code": "AHIX1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Archaeology of Egypt and Near East: Applying Lessons from the Past",
+        "code": "AHIX1250",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Byzantium in the Age of the Emperors",
+        "code": "AHIX2130",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "From Alexander the Great to Augustus: The Hellenistic Age",
+        "code": "AHIX2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Minos and Mycenae: The Aegean Bronze Age",
+        "code": "AHIX2211",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Rome and the Caesars",
+        "code": "AHIX2225",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ancient Egypt: Culture and Society",
+        "code": "AHIX2250",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ancient Egyptian and Near Eastern Art: Theory and Practice",
+        "code": "AHIX2251",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Capstone in Ancient History and Archaeology",
+        "code": "AHIX3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Material Culture and Museum Studies",
+        "code": "AHIX3001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Women and Gender in the Ancient World",
+        "code": "AHIX3201",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "A History of Magic: From the Magi to Merlin",
+        "code": "AHIX3202",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Dialogue of Cultures in the Ancient World",
+        "code": "AHIX3241",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "State Formation in the Ancient World",
+        "code": "AHIX3251",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cultures and Societies: Introduction to Anthropology",
+        "code": "ANTH1050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Evolution and Diversity",
+        "code": "ANTH1051",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Illness and Healing",
+        "code": "ANTH2002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Food Across Cultures",
+        "code": "ANTH2003",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cults, Saints, Shamans: Religion and Society",
+        "code": "ANTH2008",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mad, Bad, Sad: Cross Cultural Perspectives",
+        "code": "ANTH2024",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Anthropology of Politics and Power",
+        "code": "ANTH3002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Psychological Anthropology",
+        "code": "ANTH3008",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Globalisation, Conflict, and Religion",
+        "code": "ANTH3021",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Gender, Sexuality and Global Health",
+        "code": "ANTH3022",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Development Studies: Global Economic Inequality, International Aid, and Human Rights",
+        "code": "ANTH3023",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Doing Ethnography",
+        "code": "ANTH3024",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Evolution and Diversity",
+        "code": "ANTX1051",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Illness and Healing",
+        "code": "ANTX2002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Psychological Anthropology",
+        "code": "ANTX3008",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Humanities and the World",
+        "code": "ARTS1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Exchange Experience",
+        "code": "ARTS2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Social, Cultural and Ethical Action",
+        "code": "ARTS3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Arts Capstone",
+        "code": "ARTS3500",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Humanities and the World",
+        "code": "ARTX1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Arts Capstone",
+        "code": "ARTX3500",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Chinese Studies 1",
+        "code": "CHIN1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Chinese Studies 2",
+        "code": "CHIN1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Chinese Studies 3",
+        "code": "CHIN1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Chinese Studies 4",
+        "code": "CHIN1220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Chinese Studies 3",
+        "code": "CHIN2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Chinese Studies 4",
+        "code": "CHIN2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Chinese Studies 5",
+        "code": "CHIN2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Chinese Studies 6",
+        "code": "CHIN2220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Chinese Studies 5",
+        "code": "CHIN3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Chinese Studies 6",
+        "code": "CHIN3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Croatian Studies 1",
+        "code": "CROA1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Croatian Studies 2",
+        "code": "CROA1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Croatian Studies 3",
+        "code": "CROA1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Croatian Studies 4",
+        "code": "CROA1220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Croatian Studies 3",
+        "code": "CROA2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Croatian Studies 4",
+        "code": "CROA2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Croatian Studies 5",
+        "code": "CROA2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Croatian Studies 6",
+        "code": "CROA2220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Croatian Studies 5",
+        "code": "CROA3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Croatian Studies 6",
+        "code": "CROA3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Play Based Approaches to Early Childhood Learning and Development",
+        "code": "ECHE1130",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Infancy and Early Development",
+        "code": "ECHE1180",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "History and Philosophy of Early Childhood",
+        "code": "ECHE1200",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Health and Wellbeing",
+        "code": "ECHE1300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Arts in Children's Lives",
+        "code": "ECHE1310",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Child Development in the Preschool and Primary School Years",
+        "code": "ECHE2180",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Early Years Curriculum and Pedagogy in the Australian Context",
+        "code": "ECHE2200",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mathematical and Scientific Thinking in the Early Years",
+        "code": "ECHE2320",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Play-based Curriculum: Discovery and Creativity in Outdoor Environments",
+        "code": "ECHE3100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Infant and Toddler Curriculum and Pedagogy",
+        "code": "ECHE3110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Leading and Managing as Early Childhood Teachers",
+        "code": "ECHE3150",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Working with Families, Communities and Other Professionals in Education Settings",
+        "code": "ECHE3260",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Inclusive Education",
+        "code": "ECHE3330",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Individual Educational Project",
+        "code": "ECHE4000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Educational Leader",
+        "code": "ECHE4200",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Teaching and Learning Mathematics",
+        "code": "ECHE4310",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Management and Leadership II: Building Learning Environments",
+        "code": "ECHE4350",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Curriculum Connections and Pedagogy 2",
+        "code": "ECHE4500",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Child Development: Research and Practice",
+        "code": "ECHE4520",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Creativity and the Arts",
+        "code": "ECHE4540",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Professional Experience 7",
+        "code": "ECHP4240",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Professional Experience 6",
+        "code": "ECHP4250",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Exploring Australian Education: Social and Historical Contexts",
+        "code": "EDST1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Learning and Development: An Introduction for Educators",
+        "code": "EDST1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mathematics for Primary Teachers",
+        "code": "EDST1234",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Practice of Teaching: Inclusive Education",
+        "code": "EDST2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Practice of Teaching: Introduction to the Early Childhood Context",
+        "code": "EDST2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Language and Literacies",
+        "code": "EDST2100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Principles of Maths, Science and Technology Education",
+        "code": "EDST2110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Language and Literacy Learning in Early Childhood",
+        "code": "EDST2120",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "STEAM Integration in the Early Years",
+        "code": "EDST2140",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "LANTITE",
+        "code": "EDST2999",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Practice of Teaching: Cultures in History and Geography",
+        "code": "EDST3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Practice of Teaching: Classroom Management and Assessment in the Secondary School",
+        "code": "EDST3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Practice of Teaching: Outdoor Learning Environments",
+        "code": "EDST3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Teaching English Language and Literacies in the Early Primary School Years",
+        "code": "EDST3100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Designing Mathematics, Science and Technology Learning",
+        "code": "EDST3110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to the Secondary Curriculum",
+        "code": "EDST3140",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Working as Early Childhood Centre Directors",
+        "code": "EDST3160",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Education",
+        "code": "EDST3170",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Practice of Teaching: ICT in the Secondary School",
+        "code": "EDST4010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Practice of Teaching: Culturally and Linguistically Diverse Secondary Classrooms",
+        "code": "EDST4020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Practice of Teaching: The Emerging Professional K-6",
+        "code": "EDST4030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Practice of Teaching: Transition to the Primary Teaching Profession",
+        "code": "EDST4040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Practice of Teaching: Making Learning Visible with Infants and Toddlers",
+        "code": "EDST4050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Practice of Teaching: Transition to the Early Childhood Profession",
+        "code": "EDST4060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Teaching English Language and Literacies in the later Primary School Years",
+        "code": "EDST4100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Principles of STEM Education",
+        "code": "EDST4110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Adolescent Development and Classroom Practice",
+        "code": "EDST4120",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Arts in Education",
+        "code": "EDST4130",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Health and Physical Education in the Primary School",
+        "code": "EDST4140",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Multiliteracies and Literature in the Primary English Curriculum",
+        "code": "EDST4150",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Design of STEM Education",
+        "code": "EDST4160",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Transitioning to the Secondary Teaching Profession",
+        "code": "EDST4180",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Using and Interpreting Educational Data",
+        "code": "EDST4200",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Professional Experience in the Secondary School I",
+        "code": "EDTE4010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Professional Experience in the Secondary School II",
+        "code": "EDTE4020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Professional Experience in the Primary School 2",
+        "code": "EDTE4030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Professional Experience in the Primary School 3",
+        "code": "EDTE4040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Professional Experience for Specific Purposes",
+        "code": "EDTE4050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social Sciences in the Secondary School 1",
+        "code": "EDTE4100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Economics and Business Studies in the Secondary School I",
+        "code": "EDTE4210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Economics and Business Studies in the Secondary School II",
+        "code": "EDTE4220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "English in the Secondary School I",
+        "code": "EDTE4230",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "English in the Secondary School II",
+        "code": "EDTE4240",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Geography in the Secondary School I",
+        "code": "EDTE4250",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Geography in the Secondary School II",
+        "code": "EDTE4260",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "History in the Secondary School I",
+        "code": "EDTE4270",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "History in the Secondary School II",
+        "code": "EDTE4280",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mathematics in the Secondary School I",
+        "code": "EDTE4290",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mathematics in the Secondary School II",
+        "code": "EDTE4300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Languages in the Secondary School I",
+        "code": "EDTE4310",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Languages in the Secondary School II",
+        "code": "EDTE4320",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Science in the Secondary School I",
+        "code": "EDTE4330",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Science in the Secondary School II",
+        "code": "EDTE4340",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Society and Culture in the Secondary School I",
+        "code": "EDTE4400",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "English as a Second Language in Schools I",
+        "code": "EDTE4420",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Curriculum and Teaching in the Primary School 5",
+        "code": "EDTE4550",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Curriculum and Teaching in the Primary School 6",
+        "code": "EDTE4560",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Educational Studies",
+        "code": "EDUC1070",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mathematics in Schools",
+        "code": "EDUC2580",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Information and Communication Technologies and Education",
+        "code": "EDUC2610",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Education: The Learner",
+        "code": "EDUC2620",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Research Inquiry in Education",
+        "code": "EDUC2920",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Digital Creativity and Learning",
+        "code": "EDUC3620",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Educational Assessment",
+        "code": "EDUC3650",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Literacy in a Multicultural Society",
+        "code": "EDUC3730",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Education in a Global Society",
+        "code": "EDUC3830",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Professional Capability: Policy, Theory, Pedagogy",
+        "code": "EDUC3990",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Literature: Medieval to Modern",
+        "code": "ENGL1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Literature: Modern and Contemporary",
+        "code": "ENGL1002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "An Introduction to Creative Writing",
+        "code": "ENGL1021",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Grammar and Writing",
+        "code": "ENGL1050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Human Story: Heart, Mind and Body in Early Literature",
+        "code": "ENGL2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Revolution, Evolution, Humanity: Literature and Change in the Long Nineteenth Century",
+        "code": "ENGL2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Literature and the Visual",
+        "code": "ENGL2030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Creative Writing 2: Short-form fiction",
+        "code": "ENGL2033",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Writing Popular Genre Fiction",
+        "code": "ENGL2036",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Historical Fiction and a Passion for the Past",
+        "code": "ENGL2040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Publishing poetry and short stories",
+        "code": "ENGL3007",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "20th-Century Literature: Human to Posthuman",
+        "code": "ENGL3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Global Contemporary Literature: Australians and the World",
+        "code": "ENGL3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Popular Fiction",
+        "code": "ENGL3031",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Novel and Novella Writing",
+        "code": "ENGL3035",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Following Poetry from Epic to Instagram",
+        "code": "ENGL3040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Critical Approaches to Literature",
+        "code": "ENGL3051",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Pursuing Research in Literary Studies",
+        "code": "ENGL3060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Literature: Medieval to Modern",
+        "code": "ENGX1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Literature: Modern and Contemporary",
+        "code": "ENGX1002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "An Introduction to Creative Writing",
+        "code": "ENGX1021",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Grammar and Writing",
+        "code": "ENGX1050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Human Story: Heart, Mind and Body in Early Literature",
+        "code": "ENGX2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Revolution, Evolution, Humanity: Literature and Change in the Long Nineteenth Century",
+        "code": "ENGX2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Literature and the Visual",
+        "code": "ENGX2030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Creative Writing 2: Short-form fiction",
+        "code": "ENGX2033",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Writing Popular Genre Fiction",
+        "code": "ENGX2036",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Historical Fiction and a Passion for the Past",
+        "code": "ENGX2040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Publishing poetry and short stories",
+        "code": "ENGX3007",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "20th-Century Literature: Human to Posthuman",
+        "code": "ENGX3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Global Contemporary Literature: Australians and the World",
+        "code": "ENGX3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Popular Fiction",
+        "code": "ENGX3031",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Novel and Novella Writing",
+        "code": "ENGX3035",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Following Poetry from Epic to Instagram",
+        "code": "ENGX3040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Critical Approaches to Literature",
+        "code": "ENGX3051",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Cultural Exchange",
+        "code": "FOAR1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Research Project",
+        "code": "FOAR1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I French Studies 1",
+        "code": "FREN1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I French Studies 2",
+        "code": "FREN1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C French Studies 3",
+        "code": "FREN1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C French Studies 4",
+        "code": "FREN1220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I French Studies 3",
+        "code": "FREN2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I French Studies 4",
+        "code": "FREN2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C French Studies 5",
+        "code": "FREN2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C French Studies 6",
+        "code": "FREN2220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I French Studies 5",
+        "code": "FREN3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I French Studies 6",
+        "code": "FREN3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Freedom Dreams: Foundations in Gender Studies",
+        "code": "GEND1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Gender and Power",
+        "code": "GEND1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Sex, Race, and Rock",
+        "code": "GEND2030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Gender, Crime and Violence",
+        "code": "GEND3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Freedom Dreams: Foundations in Gender Studies",
+        "code": "GENX1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Gender, Crime and Violence",
+        "code": "GENX3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introducing Human Geography",
+        "code": "GEOP1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Sydney and the Great Australian Dream",
+        "code": "GEOP1030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Planning Systems",
+        "code": "GEOP1040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Urban Planet: Cities and Planning in the Anthropocene",
+        "code": "GEOP1080",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Theory and Methods in Geography and Planning",
+        "code": "GEOP2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cities of the Global South",
+        "code": "GEOP2040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Environment and Society",
+        "code": "GEOP2050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Geography and Planning Field School",
+        "code": "GEOP2060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Urban Dynamics: Population, Housing and Regeneration",
+        "code": "GEOP2070",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Planning and Development",
+        "code": "GEOP2080",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Environmental Justice in the Anthropocene",
+        "code": "GEOP3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Disasters and Resilient Communities",
+        "code": "GEOP3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Liveable Cities: Infrastructure, Mobilities and Place-Making",
+        "code": "GEOP3030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Urban Economies",
+        "code": "GEOP3070",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Urban Strategic Planning",
+        "code": "GEOP3080",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Thinking Space",
+        "code": "GEOP3090",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social Impact Assessment",
+        "code": "GEOP4070",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Planning Experience",
+        "code": "GEOP4080",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Planning and Design",
+        "code": "GEOP4090",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I German Studies 1",
+        "code": "GRMN1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I German Studies 2",
+        "code": "GRMN1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C German Studies 3",
+        "code": "GRMN1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C German Studies 4",
+        "code": "GRMN1220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I German Studies 3",
+        "code": "GRMN2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I German Studies 4",
+        "code": "GRMN2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C German Studies 5",
+        "code": "GRMN2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C German Studies 6",
+        "code": "GRMN2220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I German Studies 5",
+        "code": "GRMN3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I German Studies 6",
+        "code": "GRMN3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Language and Communication: Cultural Contexts",
+        "code": "INTS1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Intercultural Language Project 1",
+        "code": "INTS1015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Studies Beginners In-Country Cultural Studies",
+        "code": "INTS1030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Language in Use",
+        "code": "INTS2001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Intercultural Language Project 2",
+        "code": "INTS2015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Citizenship, Borders and Transnationalism",
+        "code": "INTS2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Studies Intermediate In-Country Cultural Studies",
+        "code": "INTS2090",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Studies Intercultural Program",
+        "code": "INTS3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Studies Project",
+        "code": "INTS3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Studies Advanced In-Country Study 2",
+        "code": "INTS3013",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Intercultural Language Project 3",
+        "code": "INTS3015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Studies Advanced In-Country Study 1",
+        "code": "INTS3016",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Language, Literature, Translation: Intercultural Perspectives",
+        "code": "INTS3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Visualising Cultures",
+        "code": "INTS3030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Global Issues",
+        "code": "INTS3040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: International Studies Internship",
+        "code": "INTS3050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Studies Advanced In-Country Study 3",
+        "code": "INTS3080",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Studies Advanced In-Country Study 4",
+        "code": "INTS3090",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Italian Studies 1",
+        "code": "ITAL1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Italian Studies 2",
+        "code": "ITAL1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Italian Studies 3",
+        "code": "ITAL1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Italian Studies 4",
+        "code": "ITAL1220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Italian Studies 3",
+        "code": "ITAL2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Italian Studies 4",
+        "code": "ITAL2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Italian Studies 5",
+        "code": "ITAL2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Italian Studies 6",
+        "code": "ITAL2220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Italian Studies 5",
+        "code": "ITAL3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Italian Studies 6",
+        "code": "ITAL3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Japanese Studies 1",
+        "code": "JPNS1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Japanese Studies 2",
+        "code": "JPNS1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Japanese Studies 3",
+        "code": "JPNS1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Japanese Studies 4",
+        "code": "JPNS1220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Japanese Studies 3",
+        "code": "JPNS2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Japanese Studies 4",
+        "code": "JPNS2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Exploring Japanese Literature",
+        "code": "JPNS2022",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Japanese Studies 5",
+        "code": "JPNS2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Japanese Studies 6",
+        "code": "JPNS2220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Japanese Studies 5",
+        "code": "JPNS3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Japanese Contemporary Culture",
+        "code": "JPNS3015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Japanese Studies 6",
+        "code": "JPNS3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social Issues in Contemporary Japan",
+        "code": "JPNS3021",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Japanese Studies in Action",
+        "code": "JPNS3050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Japanese Studies 1",
+        "code": "JPNX1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Japanese Studies 2",
+        "code": "JPNX1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Foundations of Law",
+        "code": "LAWS1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Law and Social Justice",
+        "code": "LAWS1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Law, Lawyers and Society",
+        "code": "LAWS1100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Contracts",
+        "code": "LAWS1200",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Criminal Justice",
+        "code": "LAWS1300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Law",
+        "code": "LAWS2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Crime, Policy and Governance",
+        "code": "LAWS2050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Politics of Human Rights Law",
+        "code": "LAWS2060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Jurisprudence",
+        "code": "LAWS2100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Property Law",
+        "code": "LAWS2200",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Business Organisations",
+        "code": "LAWS2300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Torts",
+        "code": "LAWS2400",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Equity and Trusts",
+        "code": "LAWS2500",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Constitutional Law",
+        "code": "LAWS3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Civil and Criminal Procedure",
+        "code": "LAWS3200",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Administrative Law",
+        "code": "LAWS3300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Evidence",
+        "code": "LAWS3400",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Remedies, Reparations and Resolution in Law",
+        "code": "LAWS5000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Age and the Law",
+        "code": "LAWS5005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Employment and Labour Law",
+        "code": "LAWS5007",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Trade Law",
+        "code": "LAWS5010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Discrimination and the Law",
+        "code": "LAWS5011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Banking and Finance Law",
+        "code": "LAWS5012",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Peoples and the Law",
+        "code": "LAWS5018",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Human Rights Law",
+        "code": "LAWS5019",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Family Law",
+        "code": "LAWS5020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Foundations of Commercial Law",
+        "code": "LAWS5021",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Intellectual Property Law",
+        "code": "LAWS5023",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Competition Law",
+        "code": "LAWS5028",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Law and Technology",
+        "code": "LAWS5029",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Law Moots and Competitions",
+        "code": "LAWS5030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Modern Corporate Governance",
+        "code": "LAWS5036",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Environmental Planning Law",
+        "code": "LAWS5040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Climate Change Law",
+        "code": "LAWS5043",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Animal Law",
+        "code": "LAWS5048",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Individual Placements",
+        "code": "LAWS5051",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Taxation",
+        "code": "LAWS5053",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Succession",
+        "code": "LAWS5056",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Conflict of Laws",
+        "code": "LAWS5057",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Environmental Law",
+        "code": "LAWS5060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Dispute Management and Resolution",
+        "code": "LAWS5065",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Energy and Natural Resources Law",
+        "code": "LAWS5069",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Health Law and Ethics",
+        "code": "LAWS5071",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Clinics and Projects",
+        "code": "LAWS5078",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Refugees and Migration",
+        "code": "LAWS5079",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Rights and Moral Dilemmas",
+        "code": "LAWS5080",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Insolvency Law",
+        "code": "LAWS5082",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Media Law",
+        "code": "LAWS5084",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Law of the Sea",
+        "code": "LAWS5086",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Law of Armed Conflict",
+        "code": "LAWS5087",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Law Exchange 1",
+        "code": "LAWS5301",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Law Exchange 2",
+        "code": "LAWS5302",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Law Exchange 3",
+        "code": "LAWS5303",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Law Exchange 4",
+        "code": "LAWS5304",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Research Methodologies in Law",
+        "code": "LAWS5910",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Legal Research Project",
+        "code": "LAWS5920",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Modern Greek Studies 1",
+        "code": "MGRK1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Modern Greek Studies 2",
+        "code": "MGRK1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Modern Greek Studies 3",
+        "code": "MGRK1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Modern Greek Studies 4",
+        "code": "MGRK1220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Modern Greek Studies 3",
+        "code": "MGRK2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Modern Greek Studies 4",
+        "code": "MGRK2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Modern Greek Studies 5",
+        "code": "MGRK2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Modern Greek Studies 6",
+        "code": "MGRK2220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Modern Greek Studies 5",
+        "code": "MGRK3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Modern Greek Studies 6",
+        "code": "MGRK3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Forging the West: A World History of Europe, 1215-1788",
+        "code": "MHIS1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Revolutions, Nationalism and Exploitation in the Modern World 1789-2001",
+        "code": "MHIS1002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "A History of Terrorism",
+        "code": "MHIS2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Between Hope and Despair: A History of Human Rights",
+        "code": "MHIS2001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "A Global History of Sport",
+        "code": "MHIS2003",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Capitalism in World History: From the Silk Roads to Amazon",
+        "code": "MHIS2004",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "From Charlemagne to Game of Thrones: The Middle Ages Then and Now",
+        "code": "MHIS2007",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Making War Modern: From Revolutionary Soldier to Peacekeeper",
+        "code": "MHIS2011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Twentieth-Century Europe",
+        "code": "MHIS2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "ANZAC: A History of Australians at War",
+        "code": "MHIS2050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Making History",
+        "code": "MHIS3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Culture and Power in Renaissance Europe",
+        "code": "MHIS3022",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Resisting the Nazis: Fascism and its Opponents",
+        "code": "MHIS3027",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Screening the Past: History on Film and Television",
+        "code": "MHIS3030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Who the Bloody Hell Are We?: Story and Citizenship in Australian History",
+        "code": "MHIS3040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "From the Beats to the Bachelorette: A History of Popular Culture since 1945",
+        "code": "MHIS3065",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Forging the West: A World History of Europe, 1215-1788",
+        "code": "MHIX1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Revolutions, Nationalism and Exploitation in the Modern World 1789-2001",
+        "code": "MHIX1002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "A History of Terrorism",
+        "code": "MHIX2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "From Charlemagne to Game of Thrones: The Middle Ages Then and Now",
+        "code": "MHIX2007",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Making War Modern: From Revolutionary Soldier to Peacekeeper",
+        "code": "MHIX2011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Twentieth Century Europe",
+        "code": "MHIX2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "ANZAC: A History of Australians at War",
+        "code": "MHIX2050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Making History",
+        "code": "MHIX3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Resisting the Nazis: Fascism and its Opponents",
+        "code": "MHIX3027",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Screening the Past: History on Film and Television",
+        "code": "MHIX3030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Who the Bloody Hell Are We? Story and Citizenship in Australian History",
+        "code": "MHIX3040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Visual Media and Communications",
+        "code": "MMCC1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to the Cinema",
+        "code": "MMCC1005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Podcasting",
+        "code": "MMCC1008",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Video Games",
+        "code": "MMCC1011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Music Literacies",
+        "code": "MMCC1012",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Media Practice and Production",
+        "code": "MMCC1015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Passion, Rebellion, & Identity in Music",
+        "code": "MMCC1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Screenwriting",
+        "code": "MMCC1025",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Music in a Global Context",
+        "code": "MMCC1030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Performance Practices",
+        "code": "MMCC1032",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Performing Arts and Entertainment Industries",
+        "code": "MMCC1035",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Media and Mass Communications",
+        "code": "MMCC1040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Creative Musician",
+        "code": "MMCC1045",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Multimodal Storytelling",
+        "code": "MMCC1050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Media Technologies",
+        "code": "MMCC1110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Musical Authorship and Songwriting",
+        "code": "MMCC2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Music and Arts Journalism",
+        "code": "MMCC2011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Screen Production: Filmmaking Across Genres",
+        "code": "MMCC2012",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Screen Production: Fiction Filmmaking",
+        "code": "MMCC2013",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Creative Freedoms: Authorship, Technology, Law",
+        "code": "MMCC2014",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Media Theory in Practice",
+        "code": "MMCC2015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Sex, Death and Politics: Media Representations",
+        "code": "MMCC2016",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Music Production: The Virtual Studio",
+        "code": "MMCC2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Visual Countercultures: Graffiti, Kitsch and Conceptual Art",
+        "code": "MMCC2023",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Media and Advertising",
+        "code": "MMCC2030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Music Production: Audio Recording and Mixing",
+        "code": "MMCC2033",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Interactive Web Design",
+        "code": "MMCC2041",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Vocal Studies: The Voice",
+        "code": "MMCC2057",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Health, Bodies, Media",
+        "code": "MMCC2060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Photo Media",
+        "code": "MMCC2061",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Vocal Studies: Song, Composition & Arranging",
+        "code": "MMCC2063",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Documentary Media: Forms, Histories, Futures",
+        "code": "MMCC2065",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Radio: 'On Air'",
+        "code": "MMCC2070",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Streaming TV",
+        "code": "MMCC2077",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Network Cultures",
+        "code": "MMCC2080",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Music Business",
+        "code": "MMCC2090",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Public Relations and Social Media: Foundations and Cases",
+        "code": "MMCC2100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Narrative Journalism",
+        "code": "MMCC2110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Managing Arts and Entertainment",
+        "code": "MMCC2120",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Creative Process to Performance",
+        "code": "MMCC2125",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Digital Performance Strategies",
+        "code": "MMCC2126",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "News Media: Facts and Fiction",
+        "code": "MMCC2130",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cybercultures",
+        "code": "MMCC2140",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Radio and Podcast: Creation",
+        "code": "MMCC2160",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Music Production: The Recording Studio",
+        "code": "MMCC3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Musical Theatre",
+        "code": "MMCC3005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Writing for Love or Money",
+        "code": "MMCC3011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Screen Production: Documentary Filmmaking",
+        "code": "MMCC3012",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Screen Production: Open Form Filmmaking",
+        "code": "MMCC3013",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Media Ethics",
+        "code": "MMCC3016",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "News Media: New Directions",
+        "code": "MMCC3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Interactive and Digital Arts",
+        "code": "MMCC3023",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Creative Entrepreneurship",
+        "code": "MMCC3025",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Critical Games Studies",
+        "code": "MMCC3029",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Forensic Media",
+        "code": "MMCC3031",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Music at the Limits: Experimentation and Innovation",
+        "code": "MMCC3032",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Performance and Event Production",
+        "code": "MMCC3035",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Radio and Podcast: The 'On Air' Career",
+        "code": "MMCC3037",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Vocal Studies: The Singer",
+        "code": "MMCC3043",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Interactive Storytelling",
+        "code": "MMCC3045",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social Media",
+        "code": "MMCC3046",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mobile Cultures",
+        "code": "MMCC3055",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Music Projects and Audience Engagement",
+        "code": "MMCC3060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Podcasting and New Sound Media",
+        "code": "MMCC3080",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Public Relations and Social Media: Constructing Campaigns",
+        "code": "MMCC3090",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Telling True Stories",
+        "code": "MMCC3110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Creative Industries Internship",
+        "code": "MMCC3121",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Music, Sound, and Moving Image",
+        "code": "MMCC3130",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Screens, Images, Ideas",
+        "code": "MMCC3140",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Media Internship",
+        "code": "MMCC3150",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Arts Management Internship",
+        "code": "MMCC3160",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Issues in Marketing and Media",
+        "code": "MMCC3199",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Philosophy of Human Nature",
+        "code": "PHIL1031",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Happiness, Goodness and Justice",
+        "code": "PHIL1032",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Critical Thinking",
+        "code": "PHIL1037",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ethics, Business and Work",
+        "code": "PHIL2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Philosophy, Technology, and the Future of Humanity",
+        "code": "PHIL2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Ethics and Moral Psychology of Good and Evil",
+        "code": "PHIL2026",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Knowledge, Language and Power",
+        "code": "PHIL2056",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Bioethics and Biotechnology",
+        "code": "PHIL2060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Philosophy of Psychology",
+        "code": "PHIL2062",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ethical Perspectives on Social Issues",
+        "code": "PHIL3041",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Great Texts in Philosophy and Ethics",
+        "code": "PHIL3051",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social and Existential Questions",
+        "code": "PHIL3052",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Contemporary Topics in Philosophy and Ethics",
+        "code": "PHIL3056",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Theories of Justice",
+        "code": "PHIL3057",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Consciousness and Self",
+        "code": "PHIL3063",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Philosophy of Human Nature",
+        "code": "PHIX1031",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Happiness, Goodness and Justice",
+        "code": "PHIX1032",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Critical Thinking",
+        "code": "PHIX1037",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ethics, Business and Work",
+        "code": "PHIX2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Philosophy, Technology, and the Future of Humanity",
+        "code": "PHIX2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Ethics and Moral Psychology of Good and Evil",
+        "code": "PHIX2026",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Knowledge, Language and Power",
+        "code": "PHIX2056",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Bioethics and Biotechnology",
+        "code": "PHIX2060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Philosophy of Psychology",
+        "code": "PHIX2062",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ethical Perspectives on Social Issues",
+        "code": "PHIX3041",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Great Texts in Philosophy and Ethics",
+        "code": "PHIX3051",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social and Existential Questions",
+        "code": "PHIX3052",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Contemporary Topics in Philosophy and Ethics",
+        "code": "PHIX3056",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Theories of Justice",
+        "code": "PHIX3057",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Consciousness and Self",
+        "code": "PHIX3063",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Security Studies",
+        "code": "PICT1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "New Security Challenges",
+        "code": "PICT1011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Strategy and Security in the Indo-Pacific",
+        "code": "PICT1012",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Security in the 20th Century",
+        "code": "PICT1014",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Criminology",
+        "code": "PICT1030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cybercrime",
+        "code": "PICT2001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Intelligence and Counter Intelligence",
+        "code": "PICT2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Modern Warfare",
+        "code": "PICT2012",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Crisis Management and Disaster Relief",
+        "code": "PICT2013",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Terrorism in the 21st Century",
+        "code": "PICT2015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Policing and Crime",
+        "code": "PICT2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Transnational Crime",
+        "code": "PICT3001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cyber Security in Practice",
+        "code": "PICT3011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Intelligence Policy",
+        "code": "PICT3012",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Strategies of Political Violence and Counter Terrorism",
+        "code": "PICT3013",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Australian National Security",
+        "code": "PICT3014",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Security Policy Analysis: Current and Emerging Issues",
+        "code": "PICT3015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Ethical Practice in Security Studies",
+        "code": "PICT3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Security Studies",
+        "code": "PICX1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "New Security Challenges",
+        "code": "PICX1011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Strategy and Security in the Indo-Pacific",
+        "code": "PICX1012",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Security in the 20th Century",
+        "code": "PICX1014",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Criminology",
+        "code": "PICX1030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cyber Crime",
+        "code": "PICX2001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Intelligence and Counter Intelligence",
+        "code": "PICX2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Modern Warfare",
+        "code": "PICX2012",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Crisis Management and Disaster Relief",
+        "code": "PICX2013",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Terrorism in the 21 Century",
+        "code": "PICX2015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Policing and Crime",
+        "code": "PICX2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Transnational Crime",
+        "code": "PICX3001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cyber Security in Practice",
+        "code": "PICX3011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Intelligence Policy",
+        "code": "PICX3012",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Strategies of Political Violence and Counter Terrorism",
+        "code": "PICX3013",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Australian National Security",
+        "code": "PICX3014",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Security Policy Analysis: Current and Emerging Issues",
+        "code": "PICX3015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ethical Practice in Security Studies",
+        "code": "PICX3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Polish Short Term Residential Program 1",
+        "code": "PLSH1045",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Polish Short Term Residential Program 2",
+        "code": "PLSH2045",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Australian Politics in Global Context",
+        "code": "POIR1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Global Politics",
+        "code": "POIR1080",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Contemporary Issues in Australian Politics: Race, Nation, Class and Gender",
+        "code": "POIR2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Theories of World Politics",
+        "code": "POIR2030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Modern Political Thought",
+        "code": "POIR2060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Governance, Power and Public Policy",
+        "code": "POIR2070",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Political Violence",
+        "code": "POIR2580",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Middle-East Politics",
+        "code": "POIR2780",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Global Political Economy",
+        "code": "POIR3030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Religion and Politics",
+        "code": "POIR3050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Policy Making in a Global Era",
+        "code": "POIR3060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Australia and the Asia-Pacific Century",
+        "code": "POIR3890",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "United States Politics: Money, Culture, Power",
+        "code": "POIR3920",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Global Environmental Politics",
+        "code": "POIR3970",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Australian Politics in Global Context",
+        "code": "POIX1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Global Politics",
+        "code": "POIX1080",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Contemporary Issues in Australian Politics: Race, Nation, Class and Gender",
+        "code": "POIX2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Theories of World Politics",
+        "code": "POIX2030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Modern Political Thought",
+        "code": "POIX2060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Governance, Power and Public Policy",
+        "code": "POIX2070",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Political Violence",
+        "code": "POIX2580",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Middle-East Politics",
+        "code": "POIX2780",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Global Political Economy",
+        "code": "POIX3030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Religion and Politics",
+        "code": "POIX3050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Policy Making in a Global Era",
+        "code": "POIX3060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Australia and the Asia-Pacific Century",
+        "code": "POIX3890",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "United States Politics: Money, Culture, Power",
+        "code": "POIX3920",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Global Environmental Politics",
+        "code": "POIX3970",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Russian Studies 1",
+        "code": "RUSS1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Russian Studies 2",
+        "code": "RUSS1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Russian Studies 3",
+        "code": "RUSS1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Russian Studies 4",
+        "code": "RUSS1220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Russian Studies 3",
+        "code": "RUSS2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Russian Studies 4",
+        "code": "RUSS2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Russian Studies 5",
+        "code": "RUSS2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Russian Studies 6",
+        "code": "RUSS2220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Russian Studies 5",
+        "code": "RUSS3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Russian Studies 6",
+        "code": "RUSS3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Spanish Studies 1",
+        "code": "SLAS1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Spanish Studies 2",
+        "code": "SLAS1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Spanish Studies 3",
+        "code": "SLAS1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Spanish Studies 4",
+        "code": "SLAS1220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Spanish Studies 3",
+        "code": "SLAS2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Spanish Studies 4",
+        "code": "SLAS2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Spanish Studies 5",
+        "code": "SLAS2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "C Spanish Studies 6",
+        "code": "SLAS2220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Spanish Studies 5",
+        "code": "SLAS3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Spanish Studies 6",
+        "code": "SLAS3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "I Spanish Studies 1",
+        "code": "SLAX1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Sociology: Understanding contemporary society",
+        "code": "SOCI1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Sociology: Understanding everyday life",
+        "code": "SOCI1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Justice and Punishment",
+        "code": "SOCI1030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social Research Methods",
+        "code": "SOCI2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Theorising Societies",
+        "code": "SOCI2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Social Policy",
+        "code": "SOCI2030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Economic Life, Inequality and Society",
+        "code": "SOCI2040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Living Diversity: Understanding Racism & Co-existence today",
+        "code": "SOCI2070",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Urban Century: Movement, Cities and Space",
+        "code": "SOCI3015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Exploring Everyday Life and Culture",
+        "code": "SOCI3025",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Services in the 21st Century: Care, Gender and Institutions",
+        "code": "SOCI3040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Activism and Social Change",
+        "code": "SOCI3050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social Inequality",
+        "code": "SOCI3070",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Economic Futures: Work, Inequality and Power",
+        "code": "SOCI3080",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social Order and Social Control",
+        "code": "SOCI3085",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Self and Society",
+        "code": "SOCI3090",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Sociology: Understanding contemporary society",
+        "code": "SOCX1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Sociology: Understanding everyday life",
+        "code": "SOCX1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social Research Methods",
+        "code": "SOCX2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Theorising Societies",
+        "code": "SOCX2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Economic Life, Inequality and Society",
+        "code": "SOCX2040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Urban Century: Movement, Cities and Space",
+        "code": "SOCX3015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Exploring Everyday Life and Culture",
+        "code": "SOCX3025",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Services in the 21st Century: Care, Gender and Institutions",
+        "code": "SOCX3040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Self and Society",
+        "code": "SOCX3090",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Why People Believe Weird Things: Making Rational Decisions in an Irrational World",
+        "code": "SPED1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introducing Social Science",
+        "code": "SSCI1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Qualitative Inquiry in the Social Sciences",
+        "code": "SSCI2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Survey Research in the Social Sciences",
+        "code": "SSCI2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Evaluation and Applied Social Science",
+        "code": "SSCI3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Professional Social Research Project",
+        "code": "SSCI3090",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Accounting in Society",
+        "code": "ACCG1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Accounting and Governance",
+        "code": "ACCG1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Management Accounting",
+        "code": "ACCG2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Finance and Regulation for New Ventures",
+        "code": "ACCG2002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Financial Accounting and Reporting",
+        "code": "ACCG2024",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Accounting Information Systems",
+        "code": "ACCG2050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Business and Corporations Law",
+        "code": "ACCG2051",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Blockchain for Business",
+        "code": "ACCG2065",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Foundations of Forensic and Data Analytics",
+        "code": "ACCG2067",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Organisational Planning and Control",
+        "code": "ACCG3001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Corporate Accounting and Business Advisory",
+        "code": "ACCG3008",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Accountants in the Profession",
+        "code": "ACCG3015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Taxation Law and Practice",
+        "code": "ACCG3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cyber Security and Privacy",
+        "code": "ACCG3025",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Strategic Management Accounting",
+        "code": "ACCG3030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Auditing and Assurance Services",
+        "code": "ACCG3040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Financial Statement Analysis",
+        "code": "ACCG3050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Information Systems for Management",
+        "code": "ACCG3055",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Information Systems Audit and Assurance",
+        "code": "ACCG3058",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cyber Security Governance and Ethics",
+        "code": "ACCG3060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Finance 1A",
+        "code": "ACST1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Actuarial Studies",
+        "code": "ACST1052",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Financial Modelling",
+        "code": "ACST2001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mathematics of Finance",
+        "code": "ACST2002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Finance and Financial Reporting",
+        "code": "ACST2052",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Contingent Payments",
+        "code": "ACST2055",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Quantitative Asset and Liability Modelling 1",
+        "code": "ACST3006",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Quantitative Asset and Liability Modelling 2",
+        "code": "ACST3007",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Survival Models",
+        "code": "ACST3058",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Actuarial Modelling",
+        "code": "ACST3059",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Quantitative Methods for Risk Analysis",
+        "code": "ACST3060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Actuarial Statistics",
+        "code": "ACST3061",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Actuarial Control Cycle 1",
+        "code": "ACST4002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Actuarial Control Cycle 2",
+        "code": "ACST4003",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Actuarial Data Analytics",
+        "code": "ACST4005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Actuarial Honours Thesis A",
+        "code": "ACST4008",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Actuarial Honours Thesis B",
+        "code": "ACST4009",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Finance 1B",
+        "code": "AFIN1002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Principles of Financial Literacy",
+        "code": "AFIN2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Investments",
+        "code": "AFIN2050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Financial Management",
+        "code": "AFIN2053",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Stochastic Methods in Applied Finance",
+        "code": "AFIN2070",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Issues in Applied Finance",
+        "code": "AFIN3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Issues in Corporate Finance",
+        "code": "AFIN3012",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Financial Risk Management",
+        "code": "AFIN3028",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Derivative Instruments",
+        "code": "AFIN3029",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Applied Portfolio Management",
+        "code": "AFIN3052",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Corporate Finance",
+        "code": "AFIN3053",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Data, Analytics and People",
+        "code": "BUSA1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Demographic Fundamentals",
+        "code": "BUSA1027",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Data Modelling and Visualisation",
+        "code": "BUSA2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Business Forecasting",
+        "code": "BUSA3015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Analytics Techniques",
+        "code": "BUSA3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Business Analytics Project",
+        "code": "BUSA3021",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Business Applications of Artificial Intelligence",
+        "code": "BUSA3430",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Principles of Economics 1",
+        "code": "ECON1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Principles of Economics 2",
+        "code": "ECON1021",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Quantitative Methods in Economics, Business and Finance",
+        "code": "ECON1031",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Microeconomic Analysis and Applications",
+        "code": "ECON2003",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Macroeconomic Analysis and Applications",
+        "code": "ECON2004",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Behavioural Economics",
+        "code": "ECON2015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Econometric Principles",
+        "code": "ECON2032",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Economics of Financial Institutions",
+        "code": "ECON2035",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introductory Econometrics",
+        "code": "ECON2041",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Labour Markets and Inequality",
+        "code": "ECON2044",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Money and Finance",
+        "code": "ECON2050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Public Economics",
+        "code": "ECON3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Industrial Organisation",
+        "code": "ECON3009",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Macroeconomic Policy",
+        "code": "ECON3011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Health Economics",
+        "code": "ECON3018",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Asian Business Environment",
+        "code": "ECON3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Financial Econometrics",
+        "code": "ECON3034",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Economic Development",
+        "code": "ECON3036",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Evolution of Economic Ideas",
+        "code": "ECON3056",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Environmental Economics",
+        "code": "ECON3059",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Finance",
+        "code": "ECON3060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Current Issues in Economics",
+        "code": "ECON3081",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Principles of Management",
+        "code": "MGMT1002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Global Business",
+        "code": "MGMT1005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Human Resource Management",
+        "code": "MGMT1007",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Organisational Behaviour",
+        "code": "MGMT1011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Entrepreneurship and New Venture Management",
+        "code": "MGMT1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Business Operations",
+        "code": "MGMT2002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Leadership in Management",
+        "code": "MGMT2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Business Demographics",
+        "code": "MGMT2016",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Management Communication",
+        "code": "MGMT2018",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Foundations in Human Resources Law",
+        "code": "MGMT2022",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social Entrepreneurship",
+        "code": "MGMT2025",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cross Cultural Management",
+        "code": "MGMT2030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Sustainability in International Business",
+        "code": "MGMT2031",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Workplace Relations",
+        "code": "MGMT2040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Staffing Organisations",
+        "code": "MGMT2050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Application of Business Models",
+        "code": "MGMT2080",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Leading Self",
+        "code": "MGMT2901",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Leading Others: Managing Teams and Relationships",
+        "code": "MGMT2902",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Art of Negotiation",
+        "code": "MGMT3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Global Business Strategy",
+        "code": "MGMT3001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: HRM Project",
+        "code": "MGMT3002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: International Business Project",
+        "code": "MGMT3003",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Human Resource Management",
+        "code": "MGMT3007",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Entrepreneurship Project",
+        "code": "MGMT3011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Managing Performance and Rewards",
+        "code": "MGMT3015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Managing Change in Organisations",
+        "code": "MGMT3017",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Management Project",
+        "code": "MGMT3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Strategic Human Resource Management",
+        "code": "MGMT3028",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Strategic Management",
+        "code": "MGMT3050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Management Ethics and Social Responsibility",
+        "code": "MGMT3051",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Business Project",
+        "code": "MGMT3060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Applied Leadership Project",
+        "code": "MGMT3901",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Creativity and Innovation",
+        "code": "MGMT3904",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Marketing Fundamentals",
+        "code": "MKTG1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Consumer Behaviour",
+        "code": "MKTG1003",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Marketing Research",
+        "code": "MKTG2002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Integrated Marketing Communications",
+        "code": "MKTG2004",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Marketing Technologies",
+        "code": "MKTG2006",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Marketing Management",
+        "code": "MKTG2008",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Marketing Metrics",
+        "code": "MKTG2013",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Qualitative Insights",
+        "code": "MKTG2017",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Business to Business Marketing",
+        "code": "MKTG3001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Services Marketing",
+        "code": "MKTG3002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Marketing Strategy",
+        "code": "MKTG3003",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Marketing Project",
+        "code": "MKTG3004",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Digital Marketing",
+        "code": "MKTG3006",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Sales and Personal Selling",
+        "code": "MKTG3007",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Marketing and Customer Insights",
+        "code": "MKTG3008",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Brand Management",
+        "code": "MKTG3011",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "New Venture Marketing",
+        "code": "MKTG3012",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Marketing Media Insights",
+        "code": "MKTG3013",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Quantitative Insights in Marketing",
+        "code": "MKTG3014",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Business Innovation Challenge",
+        "code": "MQBS1100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Student Leadership in Community Engagement",
+        "code": "MQBS3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Agility and Excellence in Business",
+        "code": "MQBS3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "International Study Tour",
+        "code": "MQBS3030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Professional Practice",
+        "code": "PROF1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Professional Practice Placement 1",
+        "code": "PROF2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Professional Practice Placement 2",
+        "code": "PROF3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Advanced Professional Practice and Reflection",
+        "code": "PROF4000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Academic Communication in the Social Sciences and Humanities",
+        "code": "ACOM1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Anatomy",
+        "code": "ANAT1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Anatomy of Limbs and Back",
+        "code": "ANAT1002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Anatomy of Head, Neck and Trunk",
+        "code": "ANAT2003",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Neuroanatomy",
+        "code": "ANAT2004",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Chiropractic Sciences 1",
+        "code": "CHIR1101",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Chiropractic Sciences 2",
+        "code": "CHIR1102",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Chiropractic Sciences 3",
+        "code": "CHIR2103",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Chiropractic Sciences 4",
+        "code": "CHIR2104",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Chiropractic Science 5",
+        "code": "CHIR3105",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Chiropractic Science 6",
+        "code": "CHIR3106",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Foundations of Clinical Practice",
+        "code": "CHIR3610",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Neuroscience 1",
+        "code": "COGS1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Neuroscience 2",
+        "code": "COGS1005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Delusions and Disorders of the Mind and Brain",
+        "code": "COGS1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cognitive Neuroscience",
+        "code": "COGS2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Memory",
+        "code": "COGS2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Experimental Design and Data Analysis for the Cognitive and Brain Sciences",
+        "code": "COGS2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Hearing and Brain",
+        "code": "COGS2030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Attention",
+        "code": "COGS2040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Reading in the Mind and Brain",
+        "code": "COGS2050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cognitive and Brain Sciences Laboratory",
+        "code": "COGS2250",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Computational Neuroscience",
+        "code": "COGS3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Neuroimaging",
+        "code": "COGS3030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Space and Time in the Brain",
+        "code": "COGS3040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Core Problems in Cognitive Science",
+        "code": "COGS3050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Topics in Cognitive Science 1",
+        "code": "COGS3210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced topics in Cognitive Science 2",
+        "code": "COGS3220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Research Experience and Training",
+        "code": "COGS3250",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Cognitive Science in the Real World",
+        "code": "COGS3999",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Delusions and Disorders of the Mind and Brain",
+        "code": "COGX1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Exercise and Sport Science",
+        "code": "ESPS1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Physiology for Exercise and Sport",
+        "code": "ESPS1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Science and Practice of Strength and Conditioning",
+        "code": "ESPS1002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Research and Data Analysis for Exercise Science",
+        "code": "ESPS1003",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Behaviour Change for Health and Exercise",
+        "code": "ESPS2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Performance Analysis for Exercise and Sport Science",
+        "code": "ESPS2001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Exercise Testing and Prescription",
+        "code": "ESPS2002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Physical Activity and Public Health",
+        "code": "ESPS2003",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Growth, Development, and Ageing",
+        "code": "ESPS2004",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Professional Practice in Exercise Science I",
+        "code": "ESPS2200",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Biomechanics of Human Movement",
+        "code": "ESPS3001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Critical Communication",
+        "code": "FOHS3050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Contemporary Health Issues",
+        "code": "HLTH2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Clinical Epidemiology and Biostatistics for Health Sciences",
+        "code": "HLTH2110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Principles in Health and Disease 1",
+        "code": "HLTH2301",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Health Placement",
+        "code": "HLTH3050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Health Promotion",
+        "code": "HLTH3100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Radiographic Physics, Practice and Protection",
+        "code": "HLTH3140",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Principles in Health and Disease 2",
+        "code": "HLTH3302",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Principles in Health and Disease 3",
+        "code": "HLTH3303",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Legal, Ethical and Policy Directions in Human Sciences",
+        "code": "HLTH3500",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Language, Culture and Communication",
+        "code": "LING1109",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Language: Its Structure and Use",
+        "code": "LING1111",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Exploring English",
+        "code": "LING1120",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Language Myths and Realities",
+        "code": "LING1121",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Australia's Indigenous Languages",
+        "code": "LING2213",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Psycholinguistics",
+        "code": "LING2214",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introductory Phonetics and Phonology",
+        "code": "LING2217",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Grammar and Meaning",
+        "code": "LING2218",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Sociolinguistics",
+        "code": "LING2219",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Syntax",
+        "code": "LING2220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Creating and Editing Professional Genres",
+        "code": "LING2293",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Linguistic Theory and Practice",
+        "code": "LING3300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Language and Culture in the Workplace",
+        "code": "LING3381",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Morphosyntax of the World's Languages",
+        "code": "LING3383",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Child Language Acquisition: Morphology and Syntax",
+        "code": "LING3384",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Second Language Teaching and Learning",
+        "code": "LING3385",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Multilingualism",
+        "code": "LING3386",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Accessible and Inclusive Communication",
+        "code": "LING3388",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Phonological Analysis",
+        "code": "LING3390",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Forensic Linguistics",
+        "code": "LING3391",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Placenames in the Modern World",
+        "code": "LINX1300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Phonetics and Phonology",
+        "code": "LINX2217",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Foundations of Learning, Communication and Teamwork",
+        "code": "MEDI1400",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Pharmacology Fundamentals",
+        "code": "MEDI2004",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Health and Disease Processes",
+        "code": "MEDI2005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Musculoskeletal System",
+        "code": "MEDI2100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cardiovascular and Respiratory System",
+        "code": "MEDI2101",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Renal, Reproductive and Endocrine Systems",
+        "code": "MEDI2102",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Alimentary System, Nutrition and Metabolism",
+        "code": "MEDI2103",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Cell and Molecular Biology",
+        "code": "MEDI2200",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Clinical Bioinformatics",
+        "code": "MEDI2201",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Nervous System",
+        "code": "MEDI2300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cellular and Molecular Neuroscience",
+        "code": "MEDI2301",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Foundations in Ethics and Society",
+        "code": "MEDI2400",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Medical Admissions Preparation",
+        "code": "MEDI2401",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Medical Research",
+        "code": "MEDI2900",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Clinical Anatomy and Medical Imaging",
+        "code": "MEDI3100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Translational Biology and Genomics",
+        "code": "MEDI3200",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Neuroscience",
+        "code": "MEDI3300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Clinical Neuroscience",
+        "code": "MEDI3301",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Contextualising Professionalism in Health Care Systems",
+        "code": "MEDI3400",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Professional Learning in the Clinical Sciences",
+        "code": "MEDI3401",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Research Experience and Training",
+        "code": "MEDI3900",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Further Research Experience",
+        "code": "MEDI3901",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Behaviour Change for Health and Exercise",
+        "code": "PHTY2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Exercise Physiology",
+        "code": "PHTY3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Biomechanics of Human Movement",
+        "code": "PHTY3001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Motor Learning and Performance",
+        "code": "PHTY3002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Honours Thesis",
+        "code": "PSYH4401",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Design and Statistics IV",
+        "code": "PSYH4418",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Issues in Developmental Psychology: Child Abuse and Neglect",
+        "code": "PSYH4432",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Topics in Physiological Psychology",
+        "code": "PSYH4461",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Computational Modelling in Psychology",
+        "code": "PSYH4462",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Visual Perception",
+        "code": "PSYH4463",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Science and Practice of Psychology in context",
+        "code": "PSYH4464",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Issues in Health Psychology",
+        "code": "PSYH4466",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Issues in Development Psychology: Development Problems across the Lifespan",
+        "code": "PSYH4468",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Scientist Practitioner Model",
+        "code": "PSYH4499",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Psychology I",
+        "code": "PSYU1101",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Psychology II",
+        "code": "PSYU1102",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Psychology I",
+        "code": "PSYU1104",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Counselling Approaches and Principles",
+        "code": "PSYU2201",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Psychology, Health and Wellbeing",
+        "code": "PSYU2224",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social and Personality Psychology",
+        "code": "PSYU2234",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Developmental Psychology",
+        "code": "PSYU2235",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Biopsychology and Learning",
+        "code": "PSYU2236",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cognitive Processes I",
+        "code": "PSYU2246",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Perception",
+        "code": "PSYU2247",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Design and Statistics II",
+        "code": "PSYU2248",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Principles of Psychological Assessment",
+        "code": "PSYU3332",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social Interaction in the Modern World",
+        "code": "PSYU3333",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Personality and its Disorders",
+        "code": "PSYU3336",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Psychopathology",
+        "code": "PSYU3337",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Organisational Psychology",
+        "code": "PSYU3338",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Applied Child and Adolescent Psychology",
+        "code": "PSYU3339",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Neuropsychology in Clinical Practice",
+        "code": "PSYU3344",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Design and Statistics III",
+        "code": "PSYU3349",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Research Methods in Psychology",
+        "code": "PSYU3351",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Appetite: The Psychology of Eating and Drinking",
+        "code": "PSYU3352",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Psychological Science: Putting Theory into Practice",
+        "code": "PSYU3399",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Psychology I",
+        "code": "PSYX1101",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Psychology II",
+        "code": "PSYX1102",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Psychology I",
+        "code": "PSYX1104",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Psychology II",
+        "code": "PSYX1105",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Counselling Approaches and Principles",
+        "code": "PSYX2201",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Psychology, Health and Wellbeing",
+        "code": "PSYX2224",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social and Personality Psychology",
+        "code": "PSYX2234",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Developmental Psychology",
+        "code": "PSYX2235",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Biopsychology and Learning",
+        "code": "PSYX2236",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cognitive Processes I",
+        "code": "PSYX2246",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Perception",
+        "code": "PSYX2247",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Design and Statistics II",
+        "code": "PSYX2248",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Principles of Psychological Assessment",
+        "code": "PSYX3332",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Social Interaction in the Modern World",
+        "code": "PSYX3333",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Personality and its Disorders",
+        "code": "PSYX3336",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Psychopathology",
+        "code": "PSYX3337",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Organisational Psychology",
+        "code": "PSYX3338",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Psychological Science: Putting Theory into Practice",
+        "code": "PSYX3399",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Audiology",
+        "code": "SPHL2212",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Speech Acoustics",
+        "code": "SPHL2216",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Language as Evidence",
+        "code": "SPHL3300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Speech Production",
+        "code": "SPHL3308",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Theoretical and Clinical Perspectives in Speech and Language Development",
+        "code": "SPHL3310",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Acquired Speech and Language Disorders",
+        "code": "SPHL3311",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Speech Perception and Hearing Science",
+        "code": "SPHL3312",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Observational Astronomy",
+        "code": "ASTR2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Astrophysics of Radiation and Stars",
+        "code": "ASTR3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Extragalactic Astronomy and Cosmology",
+        "code": "ASTR3020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Data Science Techniques in Astrophysics",
+        "code": "ASTR3110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Genes to Organisms",
+        "code": "BIOL1110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Biology",
+        "code": "BIOL1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Organisms to Ecosystems",
+        "code": "BIOL1310",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Biological Basis of Behaviour",
+        "code": "BIOL1320",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Foundations in Medical Sciences",
+        "code": "BIOL1620",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Genetics",
+        "code": "BIOL2110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Life Processes",
+        "code": "BIOL2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Systems Physiology",
+        "code": "BIOL2220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Neurophysiology",
+        "code": "BIOL2230",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Diversity of Life",
+        "code": "BIOL2310",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Science of Sex",
+        "code": "BIOL2320",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ecology",
+        "code": "BIOL2410",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Biological Data Analysis",
+        "code": "BIOL2610",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Evolutionary and Conservation Genetics",
+        "code": "BIOL3110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Genetics and Evolutionary Medicine",
+        "code": "BIOL3120",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ecology and Evolution of Emerging Infectious Diseases",
+        "code": "BIOL3130",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Human Physiology",
+        "code": "BIOL3210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Invertebrate Biology and Behaviour",
+        "code": "BIOL3310",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Plant Biology",
+        "code": "BIOL3410",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Biodiversity and Conservation",
+        "code": "BIOL3420",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Aquatic Ecosystems",
+        "code": "BIOL3440",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Vertebrate Biology and Behaviour",
+        "code": "BIOL3510",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Experience in Biological Sciences",
+        "code": "BIOL3640",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Medical Sciences Capstone",
+        "code": "BIOL3661",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Genes to Organisms ",
+        "code": "BIOX1110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Biology",
+        "code": "BIOX1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Organisms to Ecosystems ",
+        "code": "BIOX1310",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Biological Basis of Behaviour",
+        "code": "BIOX1320",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Genetics",
+        "code": "BIOX2110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Life Processes",
+        "code": "BIOX2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Diversity of Life",
+        "code": "BIOX2310",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Science of Sex",
+        "code": "BIOX2320",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Biological Data Analysis",
+        "code": "BIOX2610",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Evolutionary and Conservation Genetics",
+        "code": "BIOX3110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Human Genetics and Evolutionary Medicine",
+        "code": "BIOX3120",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Ecology and Evolution of Emerging Infectious Diseases",
+        "code": "BIOX3130",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Vertebrate Biology and Behaviour",
+        "code": "BIOX3510",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Biomolecules",
+        "code": "BMOL1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Biochemistry and Cell Biology",
+        "code": "BMOL2201",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Microbiology and Molecular Biology",
+        "code": "BMOL2401",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Biochemistry and Cell Biology",
+        "code": "BMOL3201",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Macromolecules",
+        "code": "BMOL3202",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Applied and Medical Microbiology",
+        "code": "BMOL3401",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Molecular Biology and Genomics",
+        "code": "BMOL3402",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Foundations of Chemical and Biomolecular Sciences 1",
+        "code": "CHEM1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Foundations of Chemical and Biomolecular Sciences 2",
+        "code": "CHEM1002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Analysis and Measurement",
+        "code": "CHEM2201",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Physical Chemistry I",
+        "code": "CHEM2401",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Synthesis",
+        "code": "CHEM2601",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Analysis and Measurement",
+        "code": "CHEM3202",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Synthesis",
+        "code": "CHEM3601",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Medicinal Chemistry",
+        "code": "CHEM3801",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Foundations in Chemistry and Biomolecular Sciences 1",
+        "code": "CHEX1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Civil Engineering",
+        "code": "CIVL1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Water and Wastewater Engineering",
+        "code": "CIVL2101",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Soil Mechanics",
+        "code": "CIVL2201",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Geotechnical Engineering",
+        "code": "CIVL2205",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Structural Analysis",
+        "code": "CIVL2301",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Hydraulics and Hydrology",
+        "code": "CIVL3101",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Transport Engineering",
+        "code": "CIVL3201",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Structural Design 1",
+        "code": "CIVL3301",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Structural Design 2",
+        "code": "CIVL3305",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Construction Management",
+        "code": "CIVL3401",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Civil Engineering Research Thesis A",
+        "code": "CIVL4090",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Civil Engineering Research Thesis B",
+        "code": "CIVL4091",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Geotechnical and Transportation Project",
+        "code": "CIVL4201",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Structural Design Project",
+        "code": "CIVL4301",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Health and Safety in Construction",
+        "code": "CIVL4401",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Computer Programming",
+        "code": "COMP1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Fundamentals of Computer Science",
+        "code": "COMP1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to the Study of Software Engineering",
+        "code": "COMP1050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Video Games",
+        "code": "COMP1150",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Cyber Security",
+        "code": "COMP1300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Database Design and Management",
+        "code": "COMP1350",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Business Information Systems",
+        "code": "COMP1750",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Object-Oriented Programming Practices",
+        "code": "COMP2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Algorithms and Data Structures",
+        "code": "COMP2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Software Engineering",
+        "code": "COMP2050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Systems Programming",
+        "code": "COMP2100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Web Technology",
+        "code": "COMP2110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Game Design",
+        "code": "COMP2150",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Game Development",
+        "code": "COMP2160",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Data Science",
+        "code": "COMP2200",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Data Communications",
+        "code": "COMP2250",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Operating Systems",
+        "code": "COMP2291",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Applied Cryptography",
+        "code": "COMP2300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Digital Forensics",
+        "code": "COMP2310",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Offensive Security",
+        "code": "COMP2320",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Database Systems",
+        "code": "COMP2350",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Intelligent Machines, Ethics and Law",
+        "code": "COMP2400",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Applications Modelling and Development",
+        "code": "COMP2750",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Programming Languages",
+        "code": "COMP3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Algorithm Theory and Design",
+        "code": "COMP3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Distributed Systems",
+        "code": "COMP3100",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Web Development",
+        "code": "COMP3120",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mobile Application Development",
+        "code": "COMP3130",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Games Project A",
+        "code": "COMP3150",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Games Project B",
+        "code": "COMP3151",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Artificial Intelligence",
+        "code": "COMP3160",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Computer Graphics",
+        "code": "COMP3170",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Virtual Reality and Advanced Game Development",
+        "code": "COMP3180",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Big Data",
+        "code": "COMP3210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Document Processing and Semantic Technologies",
+        "code": "COMP3220",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Computer Networks",
+        "code": "COMP3250",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Mobile Communications",
+        "code": "COMP3255",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cisco Networking I",
+        "code": "COMP3260",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cisco Networking II",
+        "code": "COMP3265",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Data Privacy and Information Security",
+        "code": "COMP3300",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Secure Applications Development",
+        "code": "COMP3310",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Cyber Security Management in Practice",
+        "code": "COMP3320",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Knowledge, Planning and Decision Making under Uncertainty",
+        "code": "COMP3410",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Artificial Intelligence for Text and Vision",
+        "code": "COMP3420",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Enterprise Systems Integration",
+        "code": "COMP3760",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Management of IT Systems and Projects",
+        "code": "COMP3770",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Technology Management",
+        "code": "COMP3780",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Computing Industry Project",
+        "code": "COMP3850",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Formal Methods",
+        "code": "COMP4000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Software Engineering Practices",
+        "code": "COMP4050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Software Engineering",
+        "code": "COMP4060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Software Engineering Research Thesis A",
+        "code": "COMP4092",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Software Engineering Research Thesis B",
+        "code": "COMP4093",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Planet Earth",
+        "code": "EESC1150",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Blue Planet: Oceans, Climate and Life",
+        "code": "EESC1160",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mass extinctions and the hidden history of Earth",
+        "code": "EESC2150",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Climate and Oceans",
+        "code": "EESC2160",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: In Earth and Environmental Sciences",
+        "code": "EESC3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Power Electronics",
+        "code": "ELCT3005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Electrical Machines",
+        "code": "ELCT3006",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Smart Power Grids",
+        "code": "ELCT4001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Power Systems Analysis",
+        "code": "ELCT4004",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Electrical and Electronic Systems",
+        "code": "ELEC2005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Signals and Systems",
+        "code": "ELEC2040",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Digital Circuits and Systems",
+        "code": "ELEC2042",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Linear Circuits and Devices",
+        "code": "ELEC2070",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Control Systems",
+        "code": "ELEC3024",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Embedded Systems",
+        "code": "ELEC3042",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Electronic Devices and Systems",
+        "code": "ELEC3076",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Electrical and Electronic Engineering Research Thesis A",
+        "code": "ELEC4092",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Electrical and Electronic Engineering Research Thesis B",
+        "code": "ELEC4093",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Electronic Design Proficiency",
+        "code": "ELEC4150",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "System on Chip Design",
+        "code": "ELEC4250",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Engineering",
+        "code": "ENGG1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Engineering Design",
+        "code": "ENGG1050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Engineering Practice",
+        "code": "ENGG2000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Engineering Systems and Design Thinking",
+        "code": "ENGG2050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Engineering Project Practice",
+        "code": "ENGG3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Engineering Leadership and Entrepreneurship",
+        "code": "ENGG3050",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Professional Practice",
+        "code": "ENGG4001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Engineering Research Thesis Extension A",
+        "code": "ENGG4092",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Engineering Research Thesis Extension B",
+        "code": "ENGG4093",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Industry Experience",
+        "code": "ENGG4099",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Engineering Contracts and Procurement",
+        "code": "ENGG4104",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Environment Skills",
+        "code": "ENVS1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Living Environment",
+        "code": "ENVS1017",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Environmental Management for a Changing World",
+        "code": "ENVS1018",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "South East Arnhem Land Caring for Country and Culture",
+        "code": "ENVS1500",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Indigenous Science",
+        "code": "ENVS1501",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Climate Change, Energy and our Future",
+        "code": "ENVS2115",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Natural Hazards, Disasters and their Management",
+        "code": "ENVS2237",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Earth Surface Processes",
+        "code": "ENVS2266",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Geographic Information Science and Remote Sensing",
+        "code": "ENVS2364",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Australian Environmental Futures",
+        "code": "ENVS2467",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Urban Climate and Air Quality",
+        "code": "ENVS3102",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Environmental Quality and Assessment",
+        "code": "ENVS3238",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Environmental Change",
+        "code": "ENVS3240",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Active Environments",
+        "code": "ENVS3241",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Environmental Analysis Using Remote Sensing and GIS",
+        "code": "ENVS3383",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Geomorphic Analysis of Rivers and Wetlands for Conservation and Management",
+        "code": "ENVS3439",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Environmental Management",
+        "code": "ENVS3462",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Environmental Management Project",
+        "code": "ENVS3463",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mathematical Concepts for Science",
+        "code": "FOSE1005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Statistical Concepts for Science",
+        "code": "FOSE1015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Scientific Computing",
+        "code": "FOSE1025",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced STEM II",
+        "code": "FOSE2901",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Making Science Work for You and Society: Capstone",
+        "code": "FOSE3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced STEM III",
+        "code": "FOSE3901",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Statistical Concepts for Science",
+        "code": "FOSX1015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Scientific Computing",
+        "code": "FOSX1025",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Making Science Work for You and Society: Capstone",
+        "code": "FOSX3000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Mathematical Modelling",
+        "code": "MATH1000",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Discrete Mathematics I",
+        "code": "MATH1007",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Calculus and Linear Algebra I",
+        "code": "MATH1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Calculus and Linear Algebra I (Advanced)",
+        "code": "MATH1015",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Calculus and Linear Algebra II",
+        "code": "MATH1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Calculus and Linear Algebra II (Advanced)",
+        "code": "MATH1025",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Calculus and Linear Algebra III",
+        "code": "MATH2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Vector Calculus and Complex Analysis",
+        "code": "MATH2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Engineering Mathematics II",
+        "code": "MATH2055",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mathematical Modelling and Differential Equations",
+        "code": "MATH2110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Pure Mathematics II",
+        "code": "MATH2210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Discrete Mathematics II",
+        "code": "MATH2907",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Professional Practice for Mathematical Sciences",
+        "code": "MATH3599",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Geometry and Topology",
+        "code": "MATH3900",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Nonlinear Dynamics and Chaos",
+        "code": "MATH3902",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Methods for Mathematical Computation",
+        "code": "MATH3905",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Partial Differential Equations",
+        "code": "MATH3906",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Algebra IIIA",
+        "code": "MATH3907",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Real and Functional Analysis",
+        "code": "MATH3909",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Mechanical Engineering",
+        "code": "MECH1001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Engineering Dynamics",
+        "code": "MECH2001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Fluid Mechanics",
+        "code": "MECH2002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mechanical Design 1",
+        "code": "MECH2003",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mechanics of Solids",
+        "code": "MECH2004",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Engineering Materials",
+        "code": "MECH2005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Thermodynamics",
+        "code": "MECH3001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Heat and Mass Transfer",
+        "code": "MECH3002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mechanical Design 2",
+        "code": "MECH3003",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Applied Numerical Engineering",
+        "code": "MECH3004",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Manufacturing Engineering",
+        "code": "MECH3005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Product Design Engineering",
+        "code": "MECH4001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Energy Sustainable Design",
+        "code": "MECH4002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Production Processes",
+        "code": "MECH4005",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mechanical Engineering Research Thesis A",
+        "code": "MECH4092",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mechanical Engineering Research Thesis B",
+        "code": "MECH4093",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Engaging the Community in Science",
+        "code": "MOLS3002",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Molecular Sciences Project",
+        "code": "MOLS3003",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Mechatronics",
+        "code": "MTRN2060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mechatronic Systems",
+        "code": "MTRN3026",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Robotics and Automation",
+        "code": "MTRN3060",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Micro Electro Mechanical Systems (MEMS)",
+        "code": "MTRN4062",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Mechatronic Engineering",
+        "code": "MTRN4066",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Wireless Mechatronics",
+        "code": "MTRN4068",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mechatronic Engineering Research Thesis A",
+        "code": "MTRN4092",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Mechatronic Engineering Research Thesis B",
+        "code": "MTRN4093",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Modern Mechanics",
+        "code": "PHYS1010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Electric and Magnetic Interactions",
+        "code": "PHYS1020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Physics for Life Sciences",
+        "code": "PHYS1210",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Engineering Physics",
+        "code": "PHYS1510",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Physics for Electrical and Electronic Engineering",
+        "code": "PHYS1520",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Classical and Quantum Oscillations and Waves",
+        "code": "PHYS2010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Electromagnetism and Relativity",
+        "code": "PHYS2020",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "The Structure of Matter",
+        "code": "PHYS2030",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Electromagnetism and Optics",
+        "code": "PHYS3010",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Advanced Quantum Mechanics and Quantum Optics",
+        "code": "PHYS3140",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Condensed Matter and Statistical Physics",
+        "code": "PHYS3180",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "PACE: Professional Experience in Physics and Astronomy",
+        "code": "PHYS3810",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Psychological Design and Statistics",
+        "code": "STAT1103",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introductory Statistics",
+        "code": "STAT1170",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Business Statistics",
+        "code": "STAT1250",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Statistical Data Analysis",
+        "code": "STAT1371",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Coding and Communication in Statistics",
+        "code": "STAT1378",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Design of Surveys and Experiments",
+        "code": "STAT2114",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Applied Statistics",
+        "code": "STAT2170",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Probability",
+        "code": "STAT2173",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Statistics",
+        "code": "STAT2371",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Probability",
+        "code": "STAT2372",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Operations Research I",
+        "code": "STAT2579",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Graphics, Multivariate Methods and Data Mining",
+        "code": "STAT3102",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Statistical Inference",
+        "code": "STAT3110",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Market Research and Forecasting",
+        "code": "STAT3128",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Linear Models",
+        "code": "STAT3175",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Introduction to Psychological Design and Statistics",
+        "code": "STAX1103",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Random Signals for Communications",
+        "code": "TELE3001",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Communication Systems",
+        "code": "TELE3021",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Communications Networks",
+        "code": "TELE3350",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Telecommunications Engineering Research Thesis A",
+        "code": "TELE4092",
+        "preReq": [],
+        "tooPer": []
+    },
+    {
+        "name": "Telecommunications Engineering Research Thesis B",
+        "code": "TELE4093",
+        "preReq": [],
+        "tooPer": []
+    }
+]
